@@ -1,0 +1,2 @@
+data/essays.csv filter=lfs diff=lfs merge=lfs -text
+data/okcupid_profiles.csv filter=lfs diff=lfs merge=lfs -text
